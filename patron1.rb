@@ -1,0 +1,2 @@
+patron = ARGV[0]
+
